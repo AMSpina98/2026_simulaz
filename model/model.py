@@ -25,3 +25,6 @@ c. Costruito il grafo, l’applicazione visualizza immediatamente il numero di v
 d. Alla pressione del tasto “Stampa Info”, l’applicazione visualizza: i) il cliente più influente, dove l’influenza di
 un cliente è definita come: influenza(C) = peso archi uscenti – peso archi entranti; ii) i 5 archi di peso
 massimo, in ordine decrescente di peso.
+
+
+# modifiche di ale
